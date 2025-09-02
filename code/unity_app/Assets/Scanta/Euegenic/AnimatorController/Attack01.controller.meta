@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77d05ca6622994c6192f080984f082b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168604
+  packageName: Euegenic
+  packageVersion: 1.0
+  assetPath: Assets/Scanta/Euegenic/AnimatorController/Attack01.controller
+  uploadId: 367665

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6603df87111f84dfa92d4b86dd63cce2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168604
+  packageName: Euegenic
+  packageVersion: 1.0
+  assetPath: Assets/Scanta/Euegenic/AnimatorController/Running.controller
+  uploadId: 367665
